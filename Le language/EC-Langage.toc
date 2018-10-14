@@ -1,0 +1,24 @@
+\babel@toc {french}{}
+\contentsline {part}{I\hspace {1em}Mod\IeC {\'e}lisation de la communication}{1}
+\contentsline {chapter}{\numberline {1}Le sch\IeC {\'e}ma de la communication}{3}
+\contentsline {section}{\numberline {1.1}Contexte historique}{3}
+\contentsline {subsection}{\numberline {1.1.1}Harold Lasswell}{3}
+\contentsline {subsection}{\numberline {1.1.2}Claude Shannon}{3}
+\contentsline {subsection}{\numberline {1.1.3}Norbert Weiner}{3}
+\contentsline {section}{\numberline {1.2}Sch\IeC {\'e}ma de la communication}{4}
+\contentsline {subsection}{\numberline {1.2.1}L'\IeC {\'e}metteur}{4}
+\contentsline {subsection}{\numberline {1.2.2}Le r\IeC {\'e}cepteur}{4}
+\contentsline {subsection}{\numberline {1.2.3}Le canal}{4}
+\contentsline {subsection}{\numberline {1.2.4}Le code}{5}
+\contentsline {subsection}{\numberline {1.2.5}Le message}{5}
+\contentsline {subsection}{\numberline {1.2.6}Le feed-back}{5}
+\contentsline {subsection}{\numberline {1.2.7}Le r\IeC {\'e}f\IeC {\'e}rent}{5}
+\contentsline {section}{\numberline {1.3}Les fonctions du langage}{6}
+\contentsline {subsection}{\numberline {1.3.1}D\IeC {\'e}finitions}{6}
+\contentsline {subsubsection}{La fonction r\IeC {\'e}f\IeC {\'e}rentielle}{6}
+\contentsline {subsubsection}{La fonction expressive}{6}
+\contentsline {subsubsection}{La fonction conative}{6}
+\contentsline {subsubsection}{La fonction po\IeC {\'e}tique}{6}
+\contentsline {subsubsection}{La fonction m\IeC {\'e}talinguistique}{6}
+\contentsline {subsubsection}{La fonction phatique (ou de contact)}{6}
+\contentsline {subsection}{\numberline {1.3.2}Remarques compl\IeC {\'e}mentaires}{7}
