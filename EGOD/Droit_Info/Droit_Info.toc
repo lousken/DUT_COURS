@@ -1,5 +1,5 @@
 \babel@toc {french}{}
-\contentsline {part}{I\hspace {1em}Droit de l'informatique}{2}
+\contentsline {part}{I\hspace {1em}Droit de l'informatique}{1}
 \contentsline {chapter}{\numberline {1}L'informatique et les libert\IeC {\'e}s individuelles}{3}
 \contentsline {section}{\numberline {1.1}Nos libert\IeC {\'e}s individuelles \IeC {\`a} l'\IeC {\`e}re technologique}{3}
 \contentsline {section}{\numberline {1.2}Le protecteur de nos libert\IeC {\'e}s : la CNIL}{4}
