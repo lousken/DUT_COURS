@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  12 JAN 2019 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  12 JAN 2019 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,7 +852,7 @@ Chapitre 2.
 ]
 Chapitre 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--86
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
 
  []
 
@@ -864,11 +864,11 @@ Chapitre 4.
 
 ] [8] (./Journalisme.aux) ) 
 Here is how much of TeX's memory you used:
- 5970 strings out of 494317
- 87965 string characters out of 6163361
+ 5972 strings out of 494317
+ 87987 string characters out of 6163361
  182363 words of memory out of 5000000
  9186 multiletter control sequences out of 15000+600000
- 51685 words of font info for 56 fonts, out of 8000000 for 9000
+ 51768 words of font info for 57 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
  41i,4n,38p,337b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr
@@ -876,7 +876,7 @@ Here is how much of TeX's memory you used:
 lic/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Journalisme.pdf (8 pages, 121348 bytes).
+Output written on Journalisme.pdf (8 pages, 121733 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
